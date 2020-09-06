@@ -14,13 +14,13 @@ function App() {
         <Login />
         ) : (
         <>
-        <Header />
+          <Header />
 
-        <div className="app__body">
-          <Sidebar />
-          <Feed />
-          <Widgets />
-        </div>
+          <div className="app__body">
+            <Sidebar />
+            <Feed />
+            <Widgets />
+          </div>
         </>
       )}
 
