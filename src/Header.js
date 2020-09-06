@@ -47,7 +47,7 @@ function Header() {
         <h4>Ola Nordmann</h4>
       </div>
 
-      {/* Wrapped those inside IconButton on each of them to make them clickable */}
+      {/* Wrapped those inside IconButton on each of them to get the clic effect from material-ui library */}
       <IconButton>
         <AddIcon />
       </IconButton>
