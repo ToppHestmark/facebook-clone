@@ -1,4 +1,4 @@
-[Take me to the APP](fb-clone-8129f.firebaseapp.com)
+[Take me to the APP](https://fb-clone-8129f.firebaseapp.com)
 
 # Facebook clone with React
 - ReactJS
