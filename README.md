@@ -1,6 +1,7 @@
 # Facebook clone with React
-- [Demo App](https://fb-clone-8129f.firebaseapp.com)
+[Demo App](https://fb-clone-8129f.firebaseapp.com)
 
+## Tech
 - ReactJS
 - Google authentication for login
 - Icons from Material-UI
